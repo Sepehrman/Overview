@@ -1,5 +1,4 @@
 # Hello World! This is Sepehr
-## Student, Developer, Musician
 # Languages:
 [![My Skills](https://skillicons.dev/icons?i=python,java,js,php,ts,cs,cpp,c,bash&theme=light)](#hi)
 
