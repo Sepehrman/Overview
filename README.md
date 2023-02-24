@@ -1,4 +1,5 @@
 # Hello World! This is Sepehr
+## I am a Software Developer within the industry and I enjoy
 # Languages:
 [![My Skills](https://skillicons.dev/icons?i=python,java,js,php,ts,cs,cpp,c,bash&theme=light)](#hi)
 
