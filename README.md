@@ -7,7 +7,7 @@ As a developer, I enjoy the creative aspect of building new things and solving c
 [![My Skills](https://skillicons.dev/icons?i=python,java,js,php,ts,cs,cpp,c,bash&theme=light)](#hi)
 
 ## Web Development:
-[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,express,react,flask,django,jquery,dotnet&theme=light)](#hi)
+[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,express,react,vue,flask,django,jquery,dotnet&theme=light)](#hi)
 
 ## Version Control:
 [![My Skills](https://skillicons.dev/icons?i=git,github,azure&theme=light)](#hi)
